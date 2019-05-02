@@ -178,6 +178,8 @@ footer {
     .story h1,
     .story h2,
     .story-body,
+    .blog h1,
+    .blog-body,
     .form-container h1,
     form {
         grid-column: 2/3;
